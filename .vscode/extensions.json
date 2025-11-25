@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "tamasfe.even-better-toml",
+    "budparr.language-hugo-vscode",
+    "github.vscode-github-actions"
+  ]
+}
