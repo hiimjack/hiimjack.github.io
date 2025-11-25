@@ -1,0 +1,96 @@
+# baseURL = "https://foo.bar"
+title = "My Website"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+enableEmoji = true
+
+[pagination]
+pagerSize = 6
+
+[markup]
+  [markup.highlight]
+    style = "github-dark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = false
+
+[security]
+  enableInlineShortcodes = true
+
+[params]
+  author = "Giacomo Dal Mas"
+  info = "Sysadmin & DevOps Engineer"
+  avatarURL = "/images/avatar.png"
+  description = "Jack's personal website"
+  since = 2019
+  enableTwemoji = true
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+  maxSeeAlsoItems = 10
+  keywords = "devops,sysadmin,website,blog,projects"
+# If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
+# [params.goatCounter]
+# code = "code"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/hiimjack"
+[[params.social]]
+  name = "Gitlab"
+  icon = "fa-brands fa-gitlab fa-2x"
+  weight = 2
+  url = "https://gitlab.com/hiimjack_7"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/giacomo-dal-mas/"
+
+
+[languages]
+
+  [languages.en]
+    languageName = ":us:"
+    languageCode = 'en-US'
+    weight = 1
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        name = "About"
+        weight = 2
+        url = "about/"
+      [[languages.en.menu.main]]
+        name = "Projects"
+        weight = 3
+        url = "projects/"
+
+  [languages.it]
+    languageName = ":it:"
+    languageCode = 'it-IT'
+    weight = 2
+    # title = "Il mio sito web"
+    # [languages.it.params]
+    [languages.it.menu]
+    # [[languages.it.menu.main]]
+    #   name = "Home"
+    #   weight = 1
+    #   url = "/"
+    [[languages.it.menu.main]]
+      name = "Chi sono"
+      weight = 2
+      url = "/about/"
+    [[languages.it.menu.main]]
+      name = "Progetti"
+      weight = 3
+      url = "/projects/"
