@@ -93,6 +93,7 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --params.goatCounter.code="${{ secrets.GOATCOUNTER_CODE }}" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
 
       - name: Cache save
