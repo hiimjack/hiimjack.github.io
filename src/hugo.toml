@@ -38,9 +38,9 @@ pagerSize = 6
   hidecolorschemetoggle = false
   maxSeeAlsoItems = 10
   keywords = "devops,sysadmin,website,blog,projects"
-# If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
-# [params.goatCounter]
-# code = "code"
+
+  [params.goatCounter]
+    code = "hiimjack"
 
 [[params.social]]
   name = "Github"
