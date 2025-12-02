@@ -39,8 +39,8 @@ pagerSize = 6
   maxSeeAlsoItems = 10
   keywords = "devops,sysadmin,website,blog,projects"
 
-  [params.goatCounter]
-    code = "hiimjack"
+[params.goatCounter]
+code = "hiimjack"
 
 [[params.social]]
   name = "Github"
