@@ -40,7 +40,7 @@ pagerSize = 6
   keywords = "devops,sysadmin,website,blog,projects"
 
 [params.goatCounter]
-code = "hiimjack"
+code = "hiiamjack"
 
 [[params.social]]
   name = "Github"
