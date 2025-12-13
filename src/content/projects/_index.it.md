@@ -1,8 +1,9 @@
 +++
-title = 'Progetti'
-date = '2025-11-10'
+title = "Progetti"
+date = "2025-11-10"
 description = "I miei progetti"
-aliases = ["projects", "homelab"]
+categories = ["Projects", "Homelab"]
+tags = ["Projects", "Homelab"]
 +++
 
 Restate sintonizzati, ne seguiranno altri

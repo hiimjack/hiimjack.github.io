@@ -66,15 +66,18 @@ code = "hiiamjack"
     languageName = ":us:"
     languageCode = 'en-US'
     weight = 1
+    [languages.en.permalinks]
+      projects = "/projects/:slug/"
+      page     = "/:slug/"
     [languages.en.menu]
       [[languages.en.menu.main]]
         name = "About"
         weight = 2
-        url = "about/"
+        url = "/about/"
       [[languages.en.menu.main]]
         name = "Projects"
         weight = 3
-        url = "projects/"
+        url = "/projects/"
 
   [languages.it]
     languageName = ":it:"
@@ -82,6 +85,9 @@ code = "hiiamjack"
     weight = 2
     # title = "Il mio sito web"
     # [languages.it.params]
+    [languages.it.permalinks]
+      projects = "/projects/:slug/"
+      page     = "/:slug/"
     [languages.it.menu]
     # [[languages.it.menu.main]]
     #   name = "Home"
