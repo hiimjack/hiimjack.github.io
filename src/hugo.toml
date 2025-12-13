@@ -1,9 +1,10 @@
 # baseURL = "https://foo.bar"
-title = "My Website"
+title = "Jack's personal website"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 enableEmoji = true
+enableRobotsTXT = true
 
 [pagination]
 pagerSize = 6
@@ -31,7 +32,7 @@ pagerSize = 6
   author = "Giacomo Dal Mas"
   info = "Sysadmin & DevOps Engineer"
   avatarURL = "/images/avatar.png"
-  description = "Jack's personal website"
+  # description = "Jack's personal website"
   since = 2019
   enableTwemoji = true
   colorScheme = "auto"
