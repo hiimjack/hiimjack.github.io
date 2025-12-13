@@ -1,8 +1,26 @@
 +++
-title = '$whoami'
-date = '2025-11-10'
-description = "chi sono?"
-aliases = ["about", "about-me", "contact"]
+date = "2025-11-10"
+title = "Giacomo Dal Mas | Sysadmin & DevOps Engineer"
+description = "Profilo professionale di Giacomo Dal Mas: oltre 5 anni di esperienza in DevOps, Kubernetes, Terraform, cloud migration e automazione infrastrutture."
+categories = [
+  "Profile",
+  "Personal"
+]
+tags = [
+  "sysadmin",
+  "devops",
+  "kubernetes",
+  "terraform",
+  "docker",
+  "gcp",
+  "google-cloud",
+  "ci-cd",
+  "automation",
+  "cloud-migration",
+  "linux",
+  "infrastructure"
+]
+slug = "about"
 +++
 
 Appassionato di infrastrutture e automazione, unisco competenze da amministratore di sistema e ingegnere DevOps per progettare ambienti scalabili, sicuri e affidabili. Da oltre cinque anni lavoro nella gestione e modernizzazione di infrastrutture on-premise e cloud, con un approccio orientato all’efficienza, alla collaborazione e alla riduzione della complessità operativa.
@@ -15,15 +33,15 @@ Nel mio lavoro cerco sempre l’equilibrio tra controllo tecnico e automazione i
 
 ### Technical Skills
 
-• Cloud & Infrastructure: GCP, VMware, Terraform, Linux
+<i class="fas fa-cloud"></i> Cloud & Infrastructure: GCP, VMware, Terraform, Linux
 
-• Containers & Orchestration: Docker, Kubernetes
+<i class="fa-brands fa-docker"></i> Containers & Orchestration: Docker, Kubernetes
 
-• DevOps Tools: GitLab Runner, GitHub Actions, ArgoCD, Bitbucket Runner, CloudBuild
+<i class="fas fa-gear"></i> DevOps Tools: GitLab Runner, GitHub Actions, ArgoCD, Bitbucket Runner, CloudBuild
 
-• Programming & Scripting: Bash, PowerShell, NodeJS (basic)
+<i class="fas fa-code"></i> Programming & Scripting: Bash, PowerShell, NodeJS (basic)
 
-• Observability tools: Grafana , Google Cloud Operations, Cloudwatch
+<i class="fas fa-microscope"></i> Observability tools: Grafana , Google Cloud Operations, Cloudwatch
 
 ### Soft Skills
 

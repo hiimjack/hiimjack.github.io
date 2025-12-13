@@ -1,10 +1,16 @@
 +++
-title = "Projects"
 date = "2025-11-10"
+title = "Projects"
 description = "My projects"
-aliases = ["projects", "homelab"]
-categories = ["Projects", "Homelab"]
-tags = ["Projects", "Homelab"]
+categories = [
+  "Projects",
+  "Homelab"
+]
+tags = [
+  "Projects",
+  "Homelab"
+]
+slug = "projects"
 +++
 
 Stay tuned, more will follow

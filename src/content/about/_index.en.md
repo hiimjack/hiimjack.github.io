@@ -1,8 +1,26 @@
 +++
-title = '$whoami'
-date = '2025-11-10'
-description = "who am I?"
-aliases = ["about", "about-me", "contact"]
+date = "2025-11-10"
+title = "Giacomo Dal Mas | Sysadmin & DevOps Engineer"
+description = "Giacomo Dal Mas's professional profile: over 5 years of experience in DevOps, Kubernetes, Terraform, cloud migration, and infrastructure automation."
+categories = [
+  "Profile",
+  "Personal"
+]
+tags = [
+  "sysadmin",
+  "devops",
+  "kubernetes",
+  "terraform",
+  "docker",
+  "gcp",
+  "google-cloud",
+  "ci-cd",
+  "automation",
+  "cloud-migration",
+  "linux",
+  "infrastructure"
+]
+slug = "about"
 +++
 
 Passionate about infrastructure and automation, I combine my skills as a system administrator and DevOps engineer to design scalable, secure, and reliable environments. For over five years, I have been working in the management and modernization of on-premises and cloud infrastructures, with an approach focused on efficiency, collaboration, and reducing operational complexity.
