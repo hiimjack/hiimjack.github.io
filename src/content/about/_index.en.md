@@ -33,15 +33,15 @@ In my work, I always strive to strike a balance between technical control and in
 
 ### Technical Skills
 
-• Cloud & Infrastructure: GCP, AWS, Alibaba Cloud, VMware, Terraform, Linux
+<i class="fas fa-cloud"></i> Cloud & Infrastructure: GCP, AWS, Alibaba Cloud, VMware, Terraform, Linux
 
-• Containers & Orchestration: Docker, Kubernetes
+<i class="fa-brands fa-docker"></i> Containers & Orchestration: Docker, Kubernetes
 
-• DevOps Tools: GitLab Runner, GitHub Actions, ArgoCD, Bitbucket Runner, CloudBuild
+<i class="fas fa-gear"></i> DevOps Tools: GitLab Runner, GitHub Actions, ArgoCD, Bitbucket Runner, CloudBuild
 
-• Programming & Scripting: Bash, PowerShell, NodeJS (basic)
+<i class="fas fa-code"></i> Programming & Scripting: Bash, PowerShell, NodeJS (basic)
 
-• Observability tools: Grafana , Google Cloud Operations, Cloudwatch
+<i class="fas fa-microscope"></i> Observability tools: Grafana , Google Cloud Operations, Cloudwatch
 
 ### Soft Skills
 
