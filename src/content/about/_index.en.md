@@ -63,7 +63,7 @@ In my free time, I enjoy reading science fiction and technological fiction novel
 
 ## Professional Experience
 
-💼 System Administrator / DevOps Engineer
+💼 DevOps Engineer / Cloud Engineer
 
 📍 Nohup S.r.l, San Giorgio di Nogaro (UD)
 
@@ -91,7 +91,7 @@ In my free time, I enjoy reading science fiction and technological fiction novel
 
 ---
 
-💼 System Administrator
+💼 System Integrator
 
 📍 Real Comm S.r.l, Porcia (PN)
 
@@ -113,7 +113,7 @@ In my free time, I enjoy reading science fiction and technological fiction novel
 
 ---
 
-💼 Developer
+💼 Software Developer
 
 📍 L&S Italia S.r.l, Brugnera (PN)
 

@@ -63,7 +63,7 @@ Nel tempo libero mi piace leggere romanzi di fantascienza e narrativa tecnologic
 
 ## Esperienze professionali
 
-💼 System Administrator / DevOps Engineer
+💼 DevOps Engineer / Cloud Engineer
 
 📍 Nohup S.r.l, San Giorgio di Nogaro (UD)
 
@@ -91,7 +91,7 @@ Nel tempo libero mi piace leggere romanzi di fantascienza e narrativa tecnologic
 
 ---
 
-💼 System Administrator
+💼 System Integrator
 
 📍 Real Comm S.r.l, Porcia (PN)
 
@@ -113,7 +113,7 @@ Nel tempo libero mi piace leggere romanzi di fantascienza e narrativa tecnologic
 
 ---
 
-💼 Developer
+💼 Software Developer
 
 📍 L&S Italia S.r.l, Brugnera (PN)
 
