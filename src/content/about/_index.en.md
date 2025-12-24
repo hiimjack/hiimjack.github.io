@@ -1,6 +1,6 @@
 +++
 date = "2025-11-10"
-title = "Giacomo Dal Mas | Sysadmin & DevOps Engineer"
+title = "Giacomo Dal Mas | DevOps Engineer & Cloud Engineer"
 description = "Giacomo Dal Mas's professional profile: over 5 years of experience in DevOps, Kubernetes, Terraform, cloud migration, and infrastructure automation."
 categories = [
   "Profile",
