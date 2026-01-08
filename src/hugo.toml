@@ -30,7 +30,7 @@ pagerSize = 6
 
 [params]
   author = "Giacomo Dal Mas"
-  info = "Sysadmin & DevOps Engineer"
+  info = "DevOps Engineer & Cloud Engineer"
   avatarURL = "/images/avatar.png"
   images = ["/images/avatar.png"]
   description = "Jack's personal website"
