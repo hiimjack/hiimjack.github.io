@@ -95,7 +95,7 @@ Nel tempo libero mi piace leggere romanzi di fantascienza e narrativa tecnologic
 
 📍 Real Comm S.r.l, Porcia (PN)
 
-🕖 Feb 2019 – Apr 2019 (Stage – On-site)
+🕖 Feb 2019 – Apr 2019 (Internship – On-site)
 
 🛠️ Attività principali:
 
@@ -117,7 +117,7 @@ Nel tempo libero mi piace leggere romanzi di fantascienza e narrativa tecnologic
 
 📍 L&S Italia S.r.l, Brugnera (PN)
 
-🕖 Jun 2018 – Jul 2018 (Stage – On-site)
+🕖 Jun 2018 – Jul 2018 (Internship – On-site)
 
 🛠️ Attività principali:
 

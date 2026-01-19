@@ -95,7 +95,7 @@ In my free time, I enjoy reading science fiction and technological fiction novel
 
 📍 Real Comm S.r.l, Porcia (PN)
 
-🕖 Feb 2019 – Apr 2019 (Stage – On-site)
+🕖 Feb 2019 – Apr 2019 (Internship – On-site)
 
 🛠️ Main Activities:
 
@@ -117,7 +117,7 @@ In my free time, I enjoy reading science fiction and technological fiction novel
 
 📍 L&S Italia S.r.l, Brugnera (PN)
 
-🕖 Jun 2018 – Jul 2018 (Stage – On-site)
+🕖 Jun 2018 – Jul 2018 (Internship – On-site)
 
 🛠️ Main Activities:
 
@@ -131,9 +131,13 @@ In my free time, I enjoy reading science fiction and technological fiction novel
 
 ## Certifications
 
-2022 - Professional Cloud Architect
+2024 – Google Cloud Certified Professional Cloud Architect
 
-2019 - VMware Technical Sales Professional
+2022 – Alibaba Cloud Professional Cloud Security
+
+2022 – Google Cloud Certified Professional Cloud Architect
+
+2019 – VMware Technical Sales Professional
 
 ## Education
 
