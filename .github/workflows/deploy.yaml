@@ -1,6 +1,6 @@
 name: Build and deploy
 
-on: [workflow_dispatch]
+on: [ workflow_dispatch ]
 permissions:
   contents: read
   pages: write
@@ -19,10 +19,10 @@ jobs:
     runs-on: ubuntu-latest
     env:
       # https://gohugo.io/host-and-deploy/host-on-github-pages/#step-4
-      DART_SASS_VERSION: 1.98.0
+      DART_SASS_VERSION: 1.99.0
       GO_VERSION: 1.26.1
-      HUGO_VERSION: 0.158.0
-      NODE_VERSION: 24.14.0
+      HUGO_VERSION: 0.160.0
+      NODE_VERSION: 24.14.1
       TZ: Europe/Rome
     steps:
       - name: Checkout
