@@ -19,14 +19,14 @@ jobs:
     runs-on: ubuntu-latest
     env:
       # https://gohugo.io/host-and-deploy/host-on-github-pages/#step-4
-      DART_SASS_VERSION: 1.99.0
-      GO_VERSION: 1.26.2
-      HUGO_VERSION: 0.161.1
-      NODE_VERSION: 24.15.0
+      DART_SASS_VERSION: 1.101.0
+      GO_VERSION: 1.26.4
+      HUGO_VERSION: 0.163.3
+      NODE_VERSION: 24.16.0
       TZ: Europe/Rome
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           submodules: recursive
           # fetch-depth: 0
@@ -81,7 +81,7 @@ jobs:
 
       - name: Cache restore
         id: cache-restore
-        uses: actions/cache/restore@v5
+        uses: actions/cache/restore@v6
         with:
           path: ${{ runner.temp }}/hugo_cache
           key: hugo-${{ github.run_id }}
@@ -98,7 +98,7 @@ jobs:
 
       - name: Cache save
         id: cache-save
-        uses: actions/cache/save@v5
+        uses: actions/cache/save@v6
         with:
           path: ${{ runner.temp }}/hugo_cache
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
