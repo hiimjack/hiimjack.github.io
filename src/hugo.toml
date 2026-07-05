@@ -1,7 +1,7 @@
 # baseURL = "https://foo.bar"
 title = "Jack's personal website"
 theme = "hugo-coder"
-languagecode = "en"
+locale = "en"
 defaultcontentlanguage = "en"
 enableEmoji = true
 enableRobotsTXT = true
@@ -64,8 +64,8 @@ code = "hiiamjack"
 [languages]
 
   [languages.en]
-    languageName = ":us:"
-    languageCode = 'en-US'
+    label = ":us:"
+    locale = 'en-US'
     weight = 1
     [languages.en.permalinks]
       projects = "/projects/:slug/"
@@ -81,8 +81,8 @@ code = "hiiamjack"
         url = "/projects/"
 
   [languages.it]
-    languageName = ":it:"
-    languageCode = 'it-IT'
+    label = ":it:"
+    locale = 'it-IT'
     weight = 2
     # title = "Il mio sito web"
     # [languages.it.params]
